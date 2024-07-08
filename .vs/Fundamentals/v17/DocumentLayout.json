@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\ferna\\source\\repos\\c-sharp-fundamentals\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{602A96D1-C418-4D28-8BCD-C3B7ACB27A68}|Exercise_3\\Exercise_3.csproj|c:\\users\\ferna\\source\\repos\\c-sharp-fundamentals\\exercise_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{602A96D1-C418-4D28-8BCD-C3B7ACB27A68}|Exercise_3\\Exercise_3.csproj|solutionrelative:exercise_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E504C8-1559-4647-99E9-47C1B1AC861C}|Exercise_2\\Exercise_2.csproj|c:\\users\\ferna\\source\\repos\\c-sharp-fundamentals\\exercise_2\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E504C8-1559-4647-99E9-47C1B1AC861C}|Exercise_2\\Exercise_2.csproj|solutionrelative:exercise_2\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E504C8-1559-4647-99E9-47C1B1AC861C}|Exercise_2\\Exercise_2.csproj|c:\\users\\ferna\\source\\repos\\c-sharp-fundamentals\\exercise_2\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E504C8-1559-4647-99E9-47C1B1AC861C}|Exercise_2\\Exercise_2.csproj|solutionrelative:exercise_2\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E504C8-1559-4647-99E9-47C1B1AC861C}|Exercise_2\\Exercise_2.csproj|c:\\users\\ferna\\source\\repos\\c-sharp-fundamentals\\exercise_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E504C8-1559-4647-99E9-47C1B1AC861C}|Exercise_2\\Exercise_2.csproj|solutionrelative:exercise_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602A96D1-C418-4D28-8BCD-C3B7ACB27A68}|Exercise_3\\Exercise_3.csproj|c:\\users\\ferna\\source\\repos\\c-sharp-fundamentals\\exercise_3\\platevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{602A96D1-C418-4D28-8BCD-C3B7ACB27A68}|Exercise_3\\Exercise_3.csproj|solutionrelative:exercise_3\\platevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61B1818-C593-4883-83CC-FA3E70F03D26}|Exercise_1\\Exercise_1.csproj|c:\\users\\ferna\\source\\repos\\c-sharp-fundamentals\\exercise_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61B1818-C593-4883-83CC-FA3E70F03D26}|Exercise_1\\Exercise_1.csproj|solutionrelative:exercise_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E61B1818-C593-4883-83CC-FA3E70F03D26}|Exercise_1\\Exercise_1.csproj|c:\\users\\ferna\\source\\repos\\c-sharp-fundamentals\\exercise_1\\exercise_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E61B1818-C593-4883-83CC-FA3E70F03D26}|Exercise_1\\Exercise_1.csproj|solutionrelative:exercise_1\\exercise_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -14,12 +38,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\source\\repos\\c-sharp-fundamentals\\Exercise_2\\Operations.cs",
+              "RelativeDocumentMoniker": "Exercise_2\\Operations.cs",
+              "ToolTip": "C:\\Users\\ferna\\source\\repos\\c-sharp-fundamentals\\Exercise_2\\Operations.cs",
+              "RelativeToolTip": "Exercise_2\\Operations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T03:25:12.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlateValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\source\\repos\\c-sharp-fundamentals\\Exercise_3\\PlateValidator.cs",
+              "RelativeDocumentMoniker": "Exercise_3\\PlateValidator.cs",
+              "ToolTip": "C:\\Users\\ferna\\source\\repos\\c-sharp-fundamentals\\Exercise_3\\PlateValidator.cs",
+              "RelativeToolTip": "Exercise_3\\PlateValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwB0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:46:36.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\source\\repos\\c-sharp-fundamentals\\Exercise_2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise_2\\Program.cs",
+              "ToolTip": "C:\\Users\\ferna\\source\\repos\\c-sharp-fundamentals\\Exercise_2\\Program.cs",
+              "RelativeToolTip": "Exercise_2\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvyYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:31:25.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Exercise_1",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\source\\repos\\c-sharp-fundamentals\\Exercise_3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise_3\\Program.cs",
+              "ToolTip": "C:\\Users\\ferna\\source\\repos\\c-sharp-fundamentals\\Exercise_3\\Program.cs",
+              "RelativeToolTip": "Exercise_3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:31:18.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Math.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\source\\repos\\c-sharp-fundamentals\\Exercise_2\\Math.cs",
+              "RelativeDocumentMoniker": "Exercise_2\\Math.cs",
+              "ToolTip": "C:\\Users\\ferna\\source\\repos\\c-sharp-fundamentals\\Exercise_2\\Math.cs",
+              "RelativeToolTip": "Exercise_2\\Math.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:29:39.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\source\\repos\\c-sharp-fundamentals\\Exercise_1\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise_1\\Program.cs",
+              "ToolTip": "C:\\Users\\ferna\\source\\repos\\c-sharp-fundamentals\\Exercise_1\\Program.cs",
+              "RelativeToolTip": "Exercise_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:29:35.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exercise_1.csproj",
               "DocumentMoniker": "C:\\Users\\ferna\\source\\repos\\c-sharp-fundamentals\\Exercise_1\\Exercise_1.csproj",
               "RelativeDocumentMoniker": "Exercise_1\\Exercise_1.csproj",
               "ToolTip": "C:\\Users\\ferna\\source\\repos\\c-sharp-fundamentals\\Exercise_1\\Exercise_1.csproj",

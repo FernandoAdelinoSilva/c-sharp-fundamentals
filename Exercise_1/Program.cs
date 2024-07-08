@@ -8,7 +8,7 @@
 
         if(!String.IsNullOrEmpty(user))
         {
-            Console.WriteLine($"Hi {user}.");
+            Console.WriteLine($"Hi {user}. Your name has {user.Count()} characters");
 
             Console.WriteLine("What about your last name ?");
             
