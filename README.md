@@ -18,6 +18,6 @@ This is a C# Fundamentals project to practice some OOP Concepts.
 
 ![Calculator](Exercise2.png)
 
-- Exercise 3 - Brazillian Car Plate Validator
+- Exercise 3 - Brazilian Car Plate Validator
 
 ![Car Plate Validator](Exercise3.png)
