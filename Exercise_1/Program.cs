@@ -1,4 +1,6 @@
-﻿class Program
+﻿using System.Globalization;
+
+class Program
 {
     public static void Main()
     {
@@ -15,6 +17,14 @@
             string userLastName = Console.ReadLine();
 
             Console.WriteLine($"Ok {user} {userLastName}. Nice to meet you !!");
+
+            DateTime dateTime = DateTime.Now;
+
+            Console.WriteLine($"Today is: {dateTime} ");
+
+            var month = CultureInfo.CurrentCulture.DateTimeFormat.GetMonthName(dateTime.Month);
+
+            Console.WriteLine($"Month is: {month} ");
         }
         else
         {
